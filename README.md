@@ -1,4 +1,4 @@
-![Purchasing Dynamics Dashboard_png](https://github.com/user-attachments/assets/79ed1b21-3cde-48ae-952c-1af0c3933279)# Customers-Purchasing-Dynamics
+# Customers-Purchasing-Dynamics
 <br>
 
 ## **Overview**
@@ -97,8 +97,7 @@ The Purchasing Dynamics Dashboard visualizes:
 
 <br> 
 
-![Dashboard Preview](
-
+![Dashboard Preview](https://github.com/purvadewangan/Customers-Purchasing-Dynamics/blob/main/Purchasing%20Dynamics%20Dashboard_png.jpg)
 
 <br>
 
