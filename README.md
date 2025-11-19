@@ -43,7 +43,7 @@ The analysis provides:
 * **MySQL** for SQL queries and structured analysis
 * **Power BI** for dashboard creation
 * **Gamma** for presentation design
-* **Excel/CSV** for dataset handling (if applicable)
+* **Excel/CSV** for dataset handling 
 
 <br>
 
@@ -93,7 +93,6 @@ The Purchasing Dynamics Dashboard visualizes:
 * Product performance
 * Discount and subscription behaviour
 * Purchase frequency and trends
-  (Include screenshots or link if available)
 
 <br> 
 
